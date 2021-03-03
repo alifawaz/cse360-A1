@@ -1,4 +1,5 @@
 # cse360-A1
+ branch2
 
 
 
@@ -74,3 +75,7 @@ public class GitDemo {
     }
 
 }
+
+Ali Aldulaimi
+W class
+
